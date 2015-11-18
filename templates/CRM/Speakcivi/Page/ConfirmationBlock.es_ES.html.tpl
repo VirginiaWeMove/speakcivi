@@ -1,5 +1,5 @@
-<p>To finish signing the petition, please confirm your email address by clicking on the link below:</p>
+<p>Para terminar de firmar la petición pincha en este enlace:</p>
 
-<p style="font-size: 16px; font-weight: bold;"><a href="{$url_confirm_and_keep}">Confirm my action and keep me updated on campaigns</a></p>
+<p style="font-size: 16px; font-weight: bold;"><a href="{$url_confirm_and_keep}">Confirmo mi acción; me gustaría saber más sobre otras campañas</a></p>
 
-<p>If you would rather not receive campaign emails you still need to confirm your action for it count <a href="{$url_confirm_and_not_receive}">here</a>.</p>
+<p>Confirma aquí si prefieres no recibir más información sobre esta y otras campañas<a href="{$url_confirm_and_not_receive}">here</a>.</p>
